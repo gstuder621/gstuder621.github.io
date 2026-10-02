@@ -1,0 +1,26 @@
+---
+title: "Garrett Studer"
+subtitle: "Industrial Engineering | University of Arkansas"
+image: "Revised_Headshot.jpg"
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/garrettstuder
+    - icon: envelope
+      text: Email
+      href: mailto:grstu625@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/gstuder621
+---
+
+Hey, I'm Garrett. I'm a sophomore studying Industrial Engineering at the University of Arkansas, with minors in Finance and Engineering Management. I'm drawn to the place where engineering meets people: figuring out how systems, organizations, and decisions can work better, and then leading the effort to make it happen.
+
+Most of my leadership experience comes from the outdoors. I'm an Eagle Scout, and in Summer 2026 I worked as a Ranger at Philmont Scout Ranch in New Mexico. There I led and mentored crews through the backcountry, taught wilderness skills, and made risk-management calls when plans didn't go the way we expected. That summer taught me more about leading real people through real problems than any classroom has.
+
+On the analytical side, I completed a finance internship with Service Academy Capital Management. I researched markets, built portfolios, and presented on how AI is transforming the financial industry. I'm especially interested in operations research, systems analysis, and federal and defense-related work, where good analysis directly shapes big decisions.
+
+Outside of school and work, I'm usually backpacking, camping, or spending time with friends. This site collects my projects, experience, and resume, so feel free to look around or reach out.

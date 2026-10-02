@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Garrett Studer"
+  image: "Revised_Headshot.jpg"
+  
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+      - icon: linkedin
+        href: https://linkedin.com/in/garrettstuder
+      - icon: github
+        href: https://github.com/gstuder621/
+      - icon: envelope
+        href: mailto:gstuder@uark.edu
+
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+
+editor: visual
+
