@@ -15,8 +15,11 @@ typography:
   fonts:
     - family: Oswald
       source: google
+      weight: [400, 500, 700]
     - family: Source Sans 3
       source: google
+      weight: [400, 700]
+      style: [normal, italic]
   base: Source Sans 3
   headings: Oswald
 
