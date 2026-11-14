@@ -1,11 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google2c4082480195a39b.html
 
 website:
   title: "Garrett Studer"
   image: "Revised_Headshot.jpg"
-  
   navbar:
     right:
       - text: Home
@@ -29,4 +30,3 @@ format:
     css: styles.css
 
 editor: visual
-
