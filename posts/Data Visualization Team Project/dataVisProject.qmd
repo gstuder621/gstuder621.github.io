@@ -36,15 +36,15 @@ For this project we chose a data set that includes information of gym members of
 
 *Question 1 project chart*
 
-## Question 2: Is There a Pattern Between BMI and Resting Heart Rate?
+## Question 2: Is There a Pattern Between BMI and Average Heart Rate?
 
-**Why we chose this question:** We wanted to see whether people with a higher BMI have a higher resting heart rate, since a heavier body might make the heart work harder even at rest.
+**Why we chose this question:** We wanted to see whether people with a higher BMI have a higher average heart rate, since a heavier body might make the heart work harder.
 
-**How we used Excel:** We used the BMI and Resting_BPM columns to create a scatter plot, with BMI on the x-axis and resting heart rate on the y-axis, because both variables are continuous. We added a trendline and displayed the R² value to measure how much of the variation in resting heart rate BMI explains. We then formatted the chart by adjusting the axes, adding titles, and shrinking and adding transparency to the markers so the overlapping points were easier to see.
+**How we used Excel:** We used the BMI and Avg_BPM columns to create a scatter plot, with BMI on the x-axis and average heart rate on the y-axis, because both variables are continuous. We added a trendline and displayed the R² value to measure how much of the variation in average heart rate BMI explains. We then formatted the chart by adjusting the axes, adding titles, and shrinking and adding transparency to the markers so the overlapping points were easier to see.
 
-**What we found:** We concluded there is no meaningful relationship between BMI and resting heart rate in our dataset. The points form an evenly spread cloud, and the trendline is almost flat, with an R² value of 0.0011, meaning BMI explains only about 0.1% of the variation in resting heart rate. Average resting heart rate stayed around 62 BPM across all BMI levels.
+**What we found:** We concluded there is no meaningful relationship between BMI and average heart rate in our dataset. The points form an evenly spread cloud, and the trendline is almost flat, with an R² value of 0.0005, meaning BMI explains only about 0.05% of the variation in average heart rate.
 
-**How the slide was developed:** We placed the scatter plot from Excel on the slide and wrote an assertion statement at the top: "There is no relationship between Resting Heart Rate and the Body Mass Index for each person in our data." The chart serves as the evidence, with the flat trendline and R² value showing the result.
+**How the slide was developed:** We placed the scatter plot from Excel on the slide and wrote an assertion statement at the top: "There is no relationship between Average Heart Rate and the Body Mass Index for each person in our data." The chart serves as the evidence, with the flat trendline and R² value showing the result.
 
 ![](Slide%202.jpg)
 
